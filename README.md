@@ -1,9 +1,11 @@
 ## SMS Spam Dataset Exploration
 
 ### Introduction
-This Jupyter Notebook explores the SMS Spam dataset obtained from the UCI
-Machine Learning repository. The notebook also compares performance of few
-machine learning models in their ability to analyze text data.
+This Jupyter Notebook explores the
+[SMS Spam](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) dataset
+obtained from [UCI Machine Learning](https://archive.ics.uci.edu/ml/index.php)
+repository. The notebook also compares performance of few machine learning
+models in their ability to analyze text data.
 
 ### Installation
 Using a virtual environment is highly recommended. Once your virtual environment
